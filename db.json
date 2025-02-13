@@ -1,0 +1,729 @@
+{
+  "features": [
+    {
+      "icon": "IconUsersGroup",
+      "title": "Share ideas, vote and discuss",
+      "description": "Give voice to your community, get valuable suggestions and prioritize what they need the most.",
+      "bgcolor": "#60A5FA",
+      "id": "635a"
+    },
+    {
+      "icon": "IconInfoCircle",
+      "bgcolor": "#818CF8",
+      "title": "Keep everyone informed",
+      "description": "Whenever you start, complete or decline a suggestion, Fider will notify everyone that subscribed to that topic.",
+      "id": "be20"
+    },
+    {
+      "icon": "IconClick",
+      "bgcolor": "red",
+      "title": "One click sign in",
+      "description": "Visitors are only one click away from contributing! Sign in via Facebook, Google, GitHub, Azure AD, Twitch, Discord or any other OAuth2 provider.",
+      "id": "7393"
+    },
+    {
+      "icon": "IconLock",
+      "bgcolor": "teal",
+      "title": "Private Site",
+      "description": "You can choose to control access to your site by making it Private.",
+      "id": "3550"
+    },
+    {
+      "icon": "IconBrand4chan",
+      "title": "Your Brand",
+      "bgcolor": "#60A5FA",
+      "description": "Use custom CSS feature to style Fider the way you want. Your logo, your colors, your identity.",
+      "id": "cec3"
+    },
+    {
+      "icon": "IconAppWindow",
+      "bgcolor": "#818CF8",
+      "title": "Public API",
+      "description": "Leverage our complete API and have total control to integrate Fider into your process.",
+      "id": "a072"
+    },
+    {
+      "icon": "IconMathIntegral",
+      "bgcolor": "red",
+      "title": "Integrations",
+      "description": "Fider can integrate with any system that supports Webhook, such as Slack and Discord.",
+      "id": "2286"
+    },
+    {
+      "icon": "IconLanguage",
+      "bgcolor": "teal",
+      "title": "Multi-language",
+      "description": "We speak your language! Fider is translated in 10+ languages, such as English, Spanish, German, French and Portuguese!",
+      "id": "ecd3"
+    },
+    {
+      "icon": "IconBookUpload",
+      "bgcolor": "#60A5FA",
+      "title": "Organize your content",
+      "description": "Tag your content to make it easier to find, group and decide. Tags can be either Public or Private.",
+      "id": "a864"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1455612693675-112974d4880b?q=80&w=900&h=900&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "backgroundImageAlt": "",
+      "title": "Smart Home Features Buyers Want Now",
+      "tag": "Market",
+      "authorName": "Liam Novak",
+      "authorAvatarUrl": "https://images.unsplash.com/flagged/photo-1595514191830-3e96a518989b?q=80&w=900&h=900&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?&format&fit=facearea&facepad=3&w=256&h=256&q=80&ixlib=rb-1.2.1",
+      "authorAvatarAlt": "Liam Novak",
+      "publishedAt": "Dec 4th, 2024"
+    },
+    {
+      "id": "2",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?q=80&w=900&h=900&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "backgroundImageAlt": "",
+      "title": "Luxury Market: Beyond the Basics",
+      "tag": "Investing",
+      "authorName": "Emily Nakamura",
+      "authorAvatarUrl": "https://images.unsplash.com/photo-1542996966-2e31c00bae31?&format&fit=facearea&facepad=3&w=256&h=256&q=80&ixlib=rb-1.2.1",
+      "authorAvatarAlt": "Emily Nakamura",
+      "publishedAt": "Nov 25th, 2024"
+    },
+    {
+      "id": "3",
+      "backgroundImageUrl": "https://images.unsplash.com/photo-1445699269025-bcc2c8f3faee?q=80&w=900&h=900&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "backgroundImageAlt": "",
+      "title": "First-Time Buyer's Guide to Mortgages",
+      "tag": "Tips",
+      "authorName": "Michael Rodriguez",
+      "authorAvatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&format&fit=facearea&facepad=3&w=256&h=256&q=80&ixlib=rb-1.2.1",
+      "authorAvatarAlt": "Michael Rodriguez",
+      "publishedAt": "Nov 19th, 2024"
+    }
+  ],
+  "employees": [
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1500917293891-ef795e70e1f6?&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&format&fit=facearea&facepad=3&w=900&h=900&q=80",
+      "name": "Sarah Thompson",
+      "alt": "Sarah Thompson",
+      "title": "Engineering",
+      "social": {
+        "x": "#",
+        "linkedin": "#"
+      },
+      "id": "d421"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&format&fit=facearea&facepad=3&w=900&h=900&q=80&ixlib=rb-1.2.1",
+      "name": "Michael Rodriguez",
+      "title": "Product",
+      "alt": "Michael Rodriguez",
+      "social": {
+        "x": "#",
+        "linkedin": "#"
+      },
+      "id": "f101"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1542996966-2e31c00bae31?&format&fit=facearea&facepad=3&w=900&h=900&q=80&ixlib=rb-1.2.1",
+      "name": "Emily Nakamura",
+      "title": "Accounting",
+      "alt": "Emily Nakamura",
+      "social": {
+        "x": "#",
+        "linkedin": "#"
+      },
+      "id": "76f5"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1524502397800-2eeaad7c3fe5?q=80&w=2488&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?&format&fit=facearea&facepad=3&w=900&h=900&q=80&ixlib=rb-1.2.1",
+      "name": "Priya Patel",
+      "title": "Design",
+      "alt": "Priya Patel",
+      "social": {
+        "x": "#",
+        "linkedin": "#"
+      },
+      "id": "e174"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1595514191830-3e96a518989b?q=80&w=2488&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?&format&fit=facearea&facepad=3&w=900&h=900&q=80&ixlib=rb-1.2.1",
+      "name": "Liam Novak",
+      "title": "Marketing",
+      "alt": "Liam Novak",
+      "social": {
+        "x": "#",
+        "linkedin": "#"
+      },
+      "id": "a5ec"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1535295972055-1c762f4483e5?q=80&w=2488&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?&format&fit=facearea&facepad=3&w=900&h=900&q=80&ixlib=rb-1.2.1",
+      "name": "Olivia Torres",
+      "title": "Sales",
+      "alt": "Olivia Torres",
+      "social": {
+        "x": "#",
+        "linkedin": "#"
+      },
+      "id": "d720"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?q=80&w=2488&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?&format&fit=facearea&facepad=3&w=900&h=900&q=80&ixlib=rb-1.2.1",
+      "name": "Marcus Johnson",
+      "title": "Engineering",
+      "alt": "Marcus Johnson",
+      "social": {
+        "x": "#",
+        "linkedin": "#"
+      },
+      "id": "387b"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1645857195444-2064b4ecabf3?q=80&w=2488&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?&format&fit=facearea&facepad=3&w=900&h=900&q=80&ixlib=rb-1.2.1",
+      "name": "David Okafor",
+      "title": "Product",
+      "alt": "David Okafor",
+      "social": {
+        "x": "#",
+        "linkedin": "#"
+      },
+      "id": "5a46"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "This product has completely transformed my workflow and boosted my productivity. I can't imagine going back to how I did things before!",
+      "name": "Sarah Thompson",
+      "imageUrl": "https://images.unsplash.com/photo-1500917293891-ef795e70e1f6?&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&format&fit=facearea&facepad=3&w=256&h=256&q=80",
+      "handle": "@sthompson",
+      "alt": "Sarah Thompson",
+      "id": "a0ca"
+    },
+    {
+      "quote": "I was skeptical at first, but after using this tool for a few weeks, I'm a total convert. It's intuitive, powerful, and has become an essential part of my creative process.",
+      "name": "Michael Rodriguez",
+      "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&format&fit=facearea&facepad=3&w=256&h=256&q=80&ixlib=rb-1.2.1",
+      "handle": "@mrodriguez",
+      "alt": "Michael Rodriguez",
+      "id": "db94"
+    },
+    {
+      "quote": "As someone who juggles multiple projects, having a reliable and efficient solution like this has been a game-changer. It streamlines so many tasks and helps me stay organized.",
+      "name": "Emily Nakamura",
+      "imageUrl": "https://images.unsplash.com/photo-1542996966-2e31c00bae31?&format&fit=facearea&facepad=3&w=256&h=256&q=80&ixlib=rb-1.2.1",
+      "handle": "@enakamura",
+      "alt": "Emily Nakamura",
+      "id": "3b92"
+    },
+    {
+      "quote": "I've been blown away by the quality of customer support. Whenever I have a question or run into an issue, the team is incredibly responsive and always goes above and beyond to find a solution.",
+      "name": "Fatima Hassan",
+      "imageUrl": "https://images.unsplash.com/photo-1512310604669-443f26c35f52?q=80&w=2488&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?&format&fit=facearea&facepad=3&w=256&h=256&q=80&ixlib=rb-1.2.1",
+      "handle": "@fatimah",
+      "alt": "Fatima Hassan",
+      "id": "bf42"
+    },
+    {
+      "quote": "This product strikes the perfect balance between ease-of-use and advanced functionality. It's accessible for beginners but has the depth to grow with you as your needs evolve.",
+      "name": "Priya Patel",
+      "imageUrl": "https://images.unsplash.com/photo-1524502397800-2eeaad7c3fe5?q=80&w=2488&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?&format&fit=facearea&facepad=3&w=256&h=256&q=80&ixlib=rb-1.2.1",
+      "handle": "@priya",
+      "alt": "Priya Patel",
+      "id": "e9e2"
+    },
+    {
+      "quote": "Collaborating with my team has never been smoother thanks to this platform. We can seamlessly share ideas, provide feedback, and keep projects moving forward.",
+      "name": "Liam Novak",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1595514191830-3e96a518989b?q=80&w=2488&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?&format&fit=facearea&facepad=3&w=256&h=256&q=80&ixlib=rb-1.2.1",
+      "handle": "@liamnovak",
+      "alt": "Liam Novak",
+      "id": "b7e8"
+    },
+    {
+      "quote": "I never realized how much time I was wasting on repetitive tasks until I started using this tool. Now I can focus on the creative work that truly matters to me.",
+      "name": "Olivia Torres",
+      "imageUrl": "https://images.unsplash.com/photo-1535295972055-1c762f4483e5?q=80&w=2488&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?&format&fit=facearea&facepad=3&w=256&h=256&q=80&ixlib=rb-1.2.1",
+      "handle": "@oliviatorres",
+      "alt": "Olivia Torres",
+      "id": "8f06"
+    },
+    {
+      "quote": "As a small business owner, I wear many hats and every minute counts. This product has been a lifesaver in automating processes and keeping me organized so I can focus on growing my company.",
+      "name": "Marcus Johnson",
+      "imageUrl": "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?q=80&w=2488&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?&format&fit=facearea&facepad=3&w=256&h=256&q=80&ixlib=rb-1.2.1",
+      "handle": "@marcus",
+      "alt": "Marcus Johnson",
+      "id": "502d"
+    },
+    {
+      "quote": "I've tried countless products promising to simplify my work, but this one actually delivers. The thoughtful design and robust features set it apart from the rest.",
+      "name": "David Okafor",
+      "imageUrl": "https://images.unsplash.com/photo-1645857195444-2064b4ecabf3?q=80&w=2488&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?&format&fit=facearea&facepad=3&w=256&h=256&q=80&ixlib=rb-1.2.1",
+      "handle": "@davidokafor",
+      "alt": "David Okafor",
+      "id": "3ee3"
+    }
+  ],
+  "helpers": [
+    {
+      "key": "setup",
+      "title": "Messy Feedback",
+      "description": "Feedback comes at you from everywhere—emails, meetings, Slack messages, or even casual chats. It's overwhelming, right? Trying to gather and organize all of that feels like an impossible task.",
+      "id": "19b3"
+    },
+    {
+      "key": "engage",
+      "title": "Keeping Users Engaged",
+      "description": "Getting users to share feedback is hard enough, but keeping them interested and involved is a whole new challenge. Fear not, Fider has got your back. It's not just a nice bit of software, you're getting a way for users to feel genuinely involved.",
+      "id": "1594"
+    },
+    {
+      "key": "figure",
+      "title": "Figuring out Priorities",
+      "description": "Deciding what to build next is tricky, especially when every suggestion feels equally important. Should you focus on the loudest voices? Or maybe guess what's most popular? With a feature voting tool like Fider, you don't have to guess.",
+      "id": "968e"
+    },
+    {
+      "key": "efficient",
+      "title": "Efficient Developer Experience",
+      "description": "Openness is huge when it comes to building trust with your users. They want to share their ideas—they want to know what happens next. Fider helps you with that feedback loop. You can update the status of suggestions, like 'under review,' 'in progress,' or 'completed,' so everyone knows exactly where things stand.",
+      "id": "13c0"
+    },
+    {
+      "key": "saving",
+      "title": "Saving Time and Effort",
+      "description": "If you don't already have a feature voting app like Fider then gathering and sorting feedback is a faff, and maybe a full-time job. That's exactly what Fider solves. It's lightweight, efficient, a perfect idea management platform, designed to save you time—your users are the ones who contribute and make it so valuable.",
+      "id": "49e4"
+    }
+  ],
+  "steps": [
+    {
+      "icon": "IconCircleNumber1",
+      "title": "Setup",
+      "description": "Sign up to create your own feedback site. Customize it with your own logo, colors and text.",
+      "id": "d6e0"
+    },
+    {
+      "icon": "IconCircle2",
+      "title": "Collect",
+      "description": "Invite people to your new Fider site so they can suggest new ideas, submit feature requests or report issues they have with your product.",
+      "id": "8010"
+    },
+    {
+      "icon": "IconCircle3",
+      "title": "Deliver",
+      "description": "Keep your audience in the loop by responding to their suggestions. Users will be notified of updates on their topics of interest.",
+      "id": "7bfd"
+    }
+  ],
+  "posts": [
+    {
+      "title": "Introduction to React",
+      "author": "John Doe",
+      "date": "2024-01-15",
+      "reviews": {
+        "positive": 320,
+        "negative": 40
+      },
+      "id": "dc58"
+    },
+    {
+      "title": "Understanding Next.js",
+      "author": "Jane Smith",
+      "date": "2024-01-17",
+      "reviews": {
+        "positive": 510,
+        "negative": 75
+      },
+      "id": "e9dc"
+    },
+    {
+      "title": "Deploying with Vercel",
+      "author": "Michael Johnson",
+      "date": "2024-01-20",
+      "reviews": {
+        "positive": 280,
+        "negative": 50
+      },
+      "id": "896f"
+    },
+    {
+      "title": "State Management in React",
+      "author": "Emily Davis",
+      "date": "2024-01-22",
+      "reviews": {
+        "positive": 640,
+        "negative": 90
+      },
+      "id": "1c24"
+    },
+    {
+      "title": "Optimizing Web Performance",
+      "author": "David Wilson",
+      "date": "2024-01-25",
+      "reviews": {
+        "positive": 410,
+        "negative": 60
+      },
+      "id": "fc13"
+    },
+    {
+      "title": "Building RESTful APIs with Node.js",
+      "author": "Sophia Martinez",
+      "date": "2024-01-28",
+      "reviews": {
+        "positive": 520,
+        "negative": 65
+      },
+      "id": "50c4"
+    },
+    {
+      "title": "Introduction to TypeScript",
+      "author": "Liam Brown",
+      "date": "2024-02-01",
+      "reviews": {
+        "positive": 460,
+        "negative": 55
+      },
+      "id": "d8cc"
+    },
+    {
+      "title": "GraphQL vs REST: Choosing the Right API",
+      "author": "Emma White",
+      "date": "2024-02-05",
+      "reviews": {
+        "positive": 350,
+        "negative": 45
+      },
+      "id": "2298"
+    },
+    {
+      "title": "Docker Essentials for Developers",
+      "author": "James Anderson",
+      "date": "2024-02-08",
+      "reviews": {
+        "positive": 480,
+        "negative": 70
+      },
+      "id": "9966"
+    },
+    {
+      "title": "Kubernetes for Beginners",
+      "author": "Olivia Taylor",
+      "date": "2024-02-12",
+      "reviews": {
+        "positive": 390,
+        "negative": 50
+      },
+      "id": "d18e"
+    }
+  ],
+  "mainmetrics": [
+    {
+      "title": "Revenue",
+      "icon": "receipt",
+      "value": "13,456",
+      "diff": 34,
+      "id": "2f17"
+    },
+    {
+      "title": "Profit",
+      "icon": "coin",
+      "value": "4,145",
+      "diff": -13,
+      "id": "2fe4"
+    },
+    {
+      "title": "Coupons usage",
+      "icon": "discount",
+      "value": "745",
+      "diff": 18,
+      "id": "a1b8"
+    },
+    {
+      "title": "New customers",
+      "icon": "user",
+      "value": "188",
+      "diff": -30,
+      "id": "f954"
+    },
+    {
+      "title": "Expenses",
+      "icon": "receipt",
+      "value": "5,678",
+      "diff": 12,
+      "id": "268e"
+    },
+    {
+      "title": "Active Subscriptions",
+      "icon": "coin",
+      "value": "3,245",
+      "diff": 5,
+      "id": "4daf"
+    },
+    {
+      "title": "Refunds Issued",
+      "icon": "discount",
+      "value": "134",
+      "diff": -8,
+      "id": "59e0"
+    },
+    {
+      "title": "Customer Satisfaction",
+      "icon": "user",
+      "value": "92%",
+      "diff": 2,
+      "id": "1126"
+    }
+  ],
+  "submetrics": [
+    {
+      "title": "Page views",
+      "stats": "456,133",
+      "description": "24% more than in the same month last year, 33% more than two years ago",
+      "id": "bbae"
+    },
+    {
+      "title": "New users",
+      "stats": "2,175",
+      "description": "13% less compared to last month, new user engagement up by 6%",
+      "id": "0778"
+    },
+    {
+      "title": "Completed orders",
+      "stats": "1,994",
+      "description": "1994 orders were completed this month, 97% satisfaction rate",
+      "id": "d8fd"
+    }
+  ],
+  "projectstats": [
+    {
+      "title": "Project Tasks",
+      "completed": 1887,
+      "total": 2334,
+      "stats": [
+        {
+          "value": 447,
+          "label": "Remaining"
+        },
+        {
+          "value": 76,
+          "label": "In Progress"
+        }
+      ],
+      "id": "ae9d"
+    },
+    {
+      "title": "Bug Fixes",
+      "completed": 300,
+      "total": 500,
+      "stats": [
+        {
+          "value": 150,
+          "label": "Remaining"
+        },
+        {
+          "value": 50,
+          "label": "In Testing"
+        }
+      ],
+      "id": "6a72"
+    },
+    {
+      "title": "New Features",
+      "completed": 120,
+      "total": 210,
+      "stats": [
+        {
+          "value": 60,
+          "label": "Remaining"
+        },
+        {
+          "value": 30,
+          "label": "Pending"
+        }
+      ],
+      "id": "b917"
+    }
+  ],
+  "projectreleases": [
+    {
+      "daysLeft": 12,
+      "release": {
+        "version": "5.3",
+        "type": "minor",
+        "date": "September 2022",
+        "description": "Form context management, components improvements and 10+ other changes"
+      },
+      "tasksCompleted": {
+        "completed": 23,
+        "total": 36
+      },
+      "id": "5e3e"
+    },
+    {
+      "daysLeft": 8,
+      "release": {
+        "version": "6.0",
+        "type": "major",
+        "date": "March 2023",
+        "description": "New UI theme, performance optimizations, and enhanced accessibility features"
+      },
+      "tasksCompleted": {
+        "completed": 15,
+        "total": 40
+      },
+      "id": "7093"
+    },
+    {
+      "daysLeft": 5,
+      "release": {
+        "version": "6.1",
+        "type": "minor",
+        "date": "June 2023",
+        "description": "Bug fixes, improved animations, and new API endpoints"
+      },
+      "tasksCompleted": {
+        "completed": 30,
+        "total": 45
+      },
+      "id": "08d0"
+    }
+  ],
+  "settings": [
+    {
+      "title": "Messages",
+      "description": "Direct messages you have received from other users",
+      "id": "541d"
+    },
+    {
+      "title": "Mentions",
+      "description": "Get notified when someone mentions you",
+      "id": "e4d5"
+    },
+    {
+      "title": "Followers",
+      "description": "Alerts when you gain new followers",
+      "id": "0ef5"
+    },
+    {
+      "title": "Updates",
+      "description": "Important feature and product updates",
+      "id": "d10c"
+    },
+    {
+      "title": "Security Alerts",
+      "description": "Be notified of unusual login attempts or security issues",
+      "id": "486e"
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": "13f4",
+      "date": 1739264866513,
+      "title": "Easy to use",
+      "description": "Great for every online business",
+      "image": "",
+      "isVoted": true,
+      "upvotes": 3,
+      "createdBy": {
+        "name": "Aayush Shrestha",
+        "email": "aayushs.262@gmail.com",
+        "image": "https://avatars.githubusercontent.com/u/116345999?v=4",
+        "id": 116345999
+      },
+      "votedUsers": [
+        "jane@yahoo.com",
+        "john@gmail.com",
+        "aayushs.262@gmail.com"
+      ]
+    },
+    {
+      "id": "d85b",
+      "date": 1739269956612,
+      "title": "Good for community support",
+      "description": "The community is very large and dynamic",
+      "image": "",
+      "isVoted": false,
+      "upvotes": 0,
+      "createdBy": {
+        "name": "John Doe",
+        "email": "john@gmail.com",
+        "image": "https://randomuser.me/api/portraits/men/1.jpg",
+        "id": "1"
+      },
+      "votedUsers": []
+    },
+    {
+      "id": "8122",
+      "date": 1739352515064,
+      "title": "Wonderful",
+      "description": "My whole team likes this platform.",
+      "image": "",
+      "isVoted": true,
+      "upvotes": 1,
+      "createdBy": {
+        "name": "Jane Smith",
+        "email": "jane@yahoo.com",
+        "image": "https://randomuser.me/api/portraits/women/2.jpg",
+        "id": "2"
+      },
+      "votedUsers": [
+        "john@gmail.com"
+      ]
+    },
+    {
+      "id": "1972",
+      "date": 1739432817129,
+      "title": "test",
+      "description": "test desc",
+      "image": "",
+      "isVoted": false,
+      "upvotes": 0,
+      "createdBy": {
+        "name": "John Doe",
+        "email": "john@gmail.com",
+        "image": "https://randomuser.me/api/portraits/men/1.jpg",
+        "id": "1"
+      },
+      "votedUsers": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "f49c",
+      "date": 1739345248026,
+      "comment": "Nice idea",
+      "postedBy": {
+        "name": "Aayush Shrestha",
+        "email": "aayushs.262@gmail.com",
+        "image": "https://avatars.githubusercontent.com/u/116345999?v=4",
+        "id": 116345999
+      },
+      "postId": "3e4a"
+    },
+    {
+      "id": "7ec8",
+      "date": 1739345487772,
+      "comment": "Nice",
+      "postedBy": {
+        "name": "Aayush Shrestha",
+        "email": "aayushs.262@gmail.com",
+        "image": "https://avatars.githubusercontent.com/u/116345999?v=4",
+        "id": 116345999
+      },
+      "postId": "3e4av"
+    },
+    {
+      "id": "92dd",
+      "date": 1739347265674,
+      "comment": "Totally support it. Lets connect in future projects.",
+      "postedBy": {
+        "name": "Jane Smith",
+        "email": "jane@yahoo.com",
+        "image": "https://randomuser.me/api/portraits/women/2.jpg",
+        "id": "2"
+      },
+      "postId": "3e4a"
+    }
+  ]
+}
